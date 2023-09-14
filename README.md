@@ -18,13 +18,13 @@ Innan ni börjar så kan alla i gruppen läsa på om html i ca en halvtimme med 
 
 Följ nedanstående punkter för att komma igång.
 
-1. Skaffa ett konto på Github om ni inte redan har det
+1. Skaffa ett konto på Github om ni inte redan har det.
 
-2. Ladda ner Github desktop [Ladda ner Github desktop](https://desktop.github.com/)
+2. [Ladda ner Github desktop](https://desktop.github.com/)
 
 3. Klicka på File -> New repository i övre menyn för att skapa ett nytt projekt.
 
-4. Klicka på knappen "Open in Visual Studio Code" för att öppna projektet i er editor och börja sen skriva er html. Om ni inte har VS-Code så ladda ner det först.
+4. Klicka på knappen "Open in Visual Studio Code" för att öppna projektet och börja sen skriva er html och css. Om ni inte har VS-Code så ladda ner det först.
 
 ## Hur du lämnar in
 
