@@ -10,7 +10,7 @@ Detta går till så att en person sitter vid datorn och dom andra hjälper den p
 
 ### Förberedelse
 
-Innan ni börjar så kan alla i gruppen läsa på om html i ca en halvtimme med hjälp av denna tutorial: [w3schools.com/html](https://www.w3schools.com/html/default.asp)
+Innan ni börjar så kan alla i gruppen läsa på om html och css i ca en halvtimme med hjälp av denna tutorial: [w3schools.com/html](https://www.w3schools.com/html/default.asp)
 
 ![Design](https://github.com/davidshore/chas_coutries/blob/main/webbsida.png)
 
