@@ -1,4 +1,4 @@
-# Websida med länder
+# Webbsida med länder
 
 I denna uppgift ska ni lära er html och css genom gå ut på nätet och söka information. Att lösa uppgifter genom att söka information på nätet är ett av de viktigaste kunskaperna för en programmerare.
 
