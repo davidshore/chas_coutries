@@ -30,18 +30,11 @@ Detta är en bra startpunkt för att läsa på om html:
 ## Hur du lämnar in
 
 1. Commita dina filer genom att klicka på "Commit to main" i Github desktop.
-2. Ladd up dina filer till github genom att klicka
 
-```
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin <Adressen till ditt repo>
-git push -u origin main
-```
+2. Ladda up dina filer till github genom att klicka på knappen "Push origin".
 
-3. Klicka på uppgiften i canvas och ange länken till ditt repo.
+3. Klicka på uppgiften i canvas och ange länken till ditt repo:
+   [uppgift i Canvas](https://chasacademy.instructure.com/courses/292/assignments/1187)
 
 ---
 
