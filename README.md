@@ -1,6 +1,6 @@
 # Websida med länder
 
-I denna uppgift ska ni lära er html genom gå ut på nätet och söka information. Att lösa uppgifter genom att söka information på nätet är ett av de viktigaste kunskaperna för en programmerare.
+I denna uppgift ska ni lära er html och css genom gå ut på nätet och söka information. Att lösa uppgifter genom att söka information på nätet är ett av de viktigaste kunskaperna för en programmerare.
 
 Er uppgift är att skapa webbsidan Countries. Detta ska göras tillsammans i era grupper med Mob-programmering.
 
