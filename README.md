@@ -39,4 +39,4 @@ Följ nedanstående punkter för att komma igång.
 
 ### :boom: Success!
 
-Efter denna uppgift ska ni kunna grundläggande html och kunna jobba med Github-desktop.
+Efter denna uppgift ska ni kunna grundläggande html/css och kunna jobba med Github-desktop.
