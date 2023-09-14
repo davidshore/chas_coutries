@@ -8,9 +8,13 @@ Er uppgift är att skapa webbsidan Countries. Detta ska göras tillsammans i era
 
 Detta går till så att en person sitter vid datorn och dom andra hjälper den personen att skriva koden. Efter ca 10 minuter byter man personen vid datorn.
 
+### Förberedelse
+
+Innan ni börjar så kan alla i gruppen läsa på om html i ca en halvtimme med hjälp av denna tutorial: [w3schools.com/html](https://www.w3schools.com/html/default.asp)
+
 ![Design](https://github.com/davidshore/chas_coutries/blob/main/webbsida.png)
 
-### Sätt upp projektet med Github desktop
+## Sätt upp projektet med Github desktop
 
 Följ nedanstående punkter för att komma igång.
 
@@ -21,11 +25,6 @@ Följ nedanstående punkter för att komma igång.
 3. Klicka på File -> New repository i övre menyn för att skapa ett nytt projekt.
 
 4. Klicka på knappen "Open in Visual Studio Code" för att öppna projektet i er editor och börja sen skriva er html. Om ni inte har VS-Code så ladda ner det först.
-
-## Hur du klarar uppgiften
-
-Detta är en bra startpunkt för att läsa på om html:
-[w3schools.com/html](https://www.w3schools.com/html/default.asp)
 
 ## Hur du lämnar in
 
