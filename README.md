@@ -1,67 +1,36 @@
 # Websida med länder
 
-Skapa din drömapp!
+I denna uppgift ska ni lära er html genom gå ut på nätet och söka information. Att lösa uppgifter genom att söka information på nätet är ett av de viktigaste kunskaperna för en programmerare.
+
+Er uppgift är att skapa webbsidan Countries. Detta ska göras tillsammans i era grupper med Mob-programmering.
+
+### Mob programmering
+
+Detta går till så att en person sitter vid datorn och dom andra hjälper den personen att skriva koden. Efter ca 10 minuter byter man personen vid datorn.
 
 ![Design](https://github.com/davidshore/chas_coutries/blob/main/webbsida.png)
 
-### Sätt upp projektet och installera react navigation eller annan navigiering
+### Sätt upp projektet med Github desktop
 
-1. `npx create-expo-app todo-app`
+Följ nedanstående punkter för att komma igång.
 
-2. `cd todo-app`
+1. Skaffa ett konto på Github om ni inte redan har det
 
-3. `npx expo install react-native-screens react-native-safe-area-context`
+2. Ladda ner Github desktop [Ladda ner Github desktop](https://desktop.github.com/)
 
-4. `npm install @react-navigation/native-stack`
+3. Klicka på File -> New repository i övre menyn för att skapa ett nytt projekt.
+
+4. Klicka på knappen "Open in Visual Studio Code" för att öppna projektet i er editor och börja sen skriva er html. Om ni inte har VS-Code så ladda ner det först.
 
 ## Hur du klarar uppgiften
 
-Kom på en egen app-idé eller välj än av följande nedan:
-
-#### Väder-app
-
-Obligatoriska funktioner:
-
-1. Kunna lägga till och ta bort städer.
-2. Tillagda städer ska sparas på telefonen.
-3. Visa väder för varje tillagd stad.
-4. Kunna byta mellan Celcius och Fahrenheit.
-
-#### 2. Recept-app
-
-Obligatoriska funktioner:
-
-1. Kunna lägga till och ta bort recept.
-2. Recept ska sparas på telefonen eller i backend.
-3. Kunna filtrera recept efter titel, ingredienser och koktid
-4. Visa sida för att söka fram recept och detalj-sida för varje recept.
-
-#### 3. Tränings-app
-
-Obligatoriska funktioner:
-
-1. Kunna lägga till och ta bort träningsprogram.
-2. Träningsprogram ska sparas på telefonen eller i backend.
-3. Kunna utföra ett träningsprogram med timer.
-4. En sida som visar när/hur mycket man har tränat.
-
-#### 4. Odlings-app
-
-Obligatoriska funktioner:
-
-1. Kunna lägga till och ta bort växter.
-2. Växter ska sparas på telefonen.
-3. Appen ska påminna om när växter ska vattnas.
-4. Sida för att visa alla växter och detalj-sida för varje växt.
-
-#### 5. Blackjack eller annat spel
-
-1. Få spelet att funka
+Detta är en bra startpunkt för att läsa på om html:
+[w3schools.com/html](https://www.w3schools.com/html/default.asp)
 
 ## Hur du lämnar in
 
-1. Skapa ett repo på github.
-2. Ladd up dina filer till github:
+1. Commita dina filer genom att klicka på "Commit to main" i Github desktop.
+2. Ladd up dina filer till github genom att klicka
 
 ```
 git init
@@ -78,4 +47,4 @@ git push -u origin main
 
 ### :boom: Success!
 
-Efter denna uppgift ska ni kunna skapa en egen app i React Native.
+Efter denna uppgift ska ni kunna grundläggande html och kunna jobba med Github-desktop.
