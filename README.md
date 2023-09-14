@@ -2,7 +2,7 @@
 
 Skapa din drömapp!
 
-![Design](https://github.com/davidshore/chas_countries/blob/main/webbsida.png)
+![Design](https://github.com/davidshore/chas_coutries/blob/main/webbsida.png)
 
 ### Sätt upp projektet och installera react navigation eller annan navigiering
 
