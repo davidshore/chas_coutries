@@ -32,8 +32,7 @@ Följ nedanstående punkter för att komma igång.
 
 2. Ladda up dina filer till github genom att klicka på knappen "Push origin".
 
-3. Klicka på uppgiften i canvas och ange länken till ditt repo:
-   [uppgift i Canvas](https://chasacademy.instructure.com/courses/292/assignments/1187)
+3. Klicka på uppgiften i canvas och ange länken till ditt repo.
 
 ---
 
